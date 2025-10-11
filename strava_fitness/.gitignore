@@ -1,0 +1,11 @@
+# IDE and editor configuration files
+/.vscode/
+
+# Raw dataset files (too large for GitHub repository)
+/Datasets/
+
+# Miscellaneous and temporary project files
+/Extra/
+
+# This preserves dashboard screenshots and data model diagrams
+Power BI/*.pbix

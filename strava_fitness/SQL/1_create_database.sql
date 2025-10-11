@@ -1,0 +1,3 @@
+CREATE DATABASE strava;
+
+-- DROP DATABASE IF EXISTS strava;
